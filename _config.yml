@@ -23,7 +23,6 @@ description: Computer Science Student
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   Projects: "projects"
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
