@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: Coming Soon
+subtitle: Coming Soon!
 ---
 <br>
 <br>
